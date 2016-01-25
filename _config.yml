@@ -1,0 +1,28 @@
+name: 3rd South
+favicon: null
+layout_spectrum: 0.9123235484585166
+typography_spectrum: 0.9735658613499254
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.05263898056000471
+  lightness: 0.9349313282873482
+  saturation: 0.8309419294819236
+  rhythmicContrast: 0.8923828513361514
+purpose: []
